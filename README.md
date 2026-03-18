@@ -41,21 +41,14 @@ Pour cette méthode on utilise TF-IDF en descripteur puis une regression logisti
 Pour cette méthode on utilise TF-IDF avec un minMaxScaler, pour normer la taille des vecteurs, en descripteur une regression logistique comme classifieur.
 
 ## Résultats
-| Run      | Micro f1 | Macro f1 |
-
-|-------|--------|--------|
-
+| Run   | Micro f1 | Macro f1 |
+|-------|----------|----------|
 | baseline majoritaire |  46%  |  21%  |
-
 | baseline aléatoire |  33%  |  32%  |
-
-| METH 1   |  80%  |  74%  |
-
-| METH 2A   |  88%  |  87%  |
-
-| METH 2B   |  86%  |  84%  |
-
-| METH 3   |  88%  |  87%  |
+| METH 1 |  80%  |  74%  |
+| METH 2A |  88%  |  87%  |
+| METH 2B |  86%  |  84%  |
+| METH 3 |  88%  |  87%  |
 
 
 ### Réflexion critique
