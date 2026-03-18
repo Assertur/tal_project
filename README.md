@@ -43,7 +43,7 @@ Pour cette méthode on utilise TF-IDF avec un minMaxScaler, pour normer la taill
 ## Résultats
 | Run      | Micro f1 | Macro f1 |
 
-| -------- |  -------- | --------:|
+|-------|--------|--------|
 
 | baseline majoritaire |  46%  |  21%  |
 
